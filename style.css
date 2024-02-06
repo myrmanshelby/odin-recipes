@@ -1,0 +1,40 @@
+* {
+  font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+p {
+  color: rgb(62, 8, 26);
+}
+
+h1 {
+  color: purple;
+  background-color: pink;
+}
+
+h2 {
+  color: white;
+  background-color: rgb(65, 6, 73);
+}
+
+#smoothie-image {
+  height: 400px;
+  width: auto;
+}
+
+.ingredients {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background-color: violet;
+}
+
+.steps {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(179, 0, 255);
+}
